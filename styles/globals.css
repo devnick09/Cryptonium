@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat&family=Poppins&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(20, 20, 20);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.coin_app {
+  color: #fff;
+}
